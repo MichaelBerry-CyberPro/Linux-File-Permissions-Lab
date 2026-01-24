@@ -15,4 +15,4 @@ A shared project directory requires different access levels for developers and a
 ### Commands Used
 
 1) sudo chown dev_lead:developers project/
-2) chmod 750 project/
+2) chmod 600 project/
