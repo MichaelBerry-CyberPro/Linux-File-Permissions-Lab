@@ -12,6 +12,6 @@ Demonstate managing file permissions and ownership using chmod, chown, and group
 ### Scenario  
 A shared project directory requires different access levels for developers and auditors
 
-### Commands Used
+### Chmod Used
 
-
+![image alt](https://github.com/MichaelBerry-CyberPro/Linux-File-Permissions-Lab/blob/main/Change%20permissions.png)
