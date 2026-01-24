@@ -11,3 +11,8 @@ Demonstate managing file permissions and ownership using chmod, chown, and group
 
 ### Scenario  
 A shared project directory requires different access levels for developers and auditors
+
+###Commands Used
+bash
+sudo chown dev_lead:developers project/
+chmod 750 project/
