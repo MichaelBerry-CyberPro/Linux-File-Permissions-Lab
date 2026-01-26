@@ -4,7 +4,7 @@
 Demonstate managing file permissions and ownership using chmod, chown, and group
 
 ### Skills Demonstrated
-1) chmod (numeric and symbolic)
+1) chmod
 2) chown
 3) Understanding rwx permissions
 4) Principle of least privilege
