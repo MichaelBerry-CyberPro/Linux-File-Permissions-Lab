@@ -18,5 +18,5 @@ I used LS command verify the directory phoenix_project. I use Change Directory t
 ![image alt](https://github.com/MichaelBerry-CyberPro/Linux-File-Permissions-Lab/blob/main/Change%20permissions.png)
 
 ### Change Ownshership
-I used the Sudo Chown command to give elevated control to change ownership.
+I used the Sudo Chown command to gain elevated control to change ownership.
 ![image alt](https://github.com/MichaelBerry-CyberPro/Linux-File-Permissions-Lab/blob/main/Change%20ownership.png)
